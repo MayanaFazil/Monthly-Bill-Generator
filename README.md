@@ -13,7 +13,7 @@ We need to **generate a monthly invoice** that:
 - Includes only items active during the **target month**
 - **Prorates** the cost for partial-month usage
 - Groups similar items (by `item_code`, `rate`, and `billing period`)
-- Returns a total bill for the month
+- Returns a total bill for the month.
 
 ---
 
